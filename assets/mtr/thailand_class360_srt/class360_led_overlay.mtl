@@ -1,0 +1,7 @@
+# v6 display rectangles - ONE dynamic texture shared across three separated groups.
+newmtl led_panel#light
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+illum 1
+map_Kd class360_led_placeholder.png

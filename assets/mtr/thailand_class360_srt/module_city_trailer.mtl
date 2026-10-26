@@ -1,0 +1,186 @@
+# Independent Class360 carriage material library, derived from v12
+newmtl city_trailer__badak
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd badak_imu.png
+
+newmtl city_trailer__badak_door
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd badak_imu_door.png
+
+newmtl city_trailer__black
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd black.png
+
+newmtl city_trailer__cheonjang
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd cheonjang.png
+
+newmtl city_trailer__darkgray
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd darkgray.png
+
+newmtl city_trailer__gray
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd gray.png
+
+newmtl city_trailer__white
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd white.png
+
+newmtl city_trailer__lightgray
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd lightgray.png
+
+newmtl city_trailer__led
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd led.png
+
+newmtl city_trailer__sub
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd mak.png
+
+newmtl city_trailer__jibung
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd jibung.png
+
+newmtl city_trailer__side
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd side_m_blue.png
+
+newmtl city_trailer__side_1
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd side_m_blue_1.png
+
+newmtl city_trailer__habu
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd habu.png
+
+newmtl city_trailer__linemap
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd linemap.png
+
+newmtl city_trailer__doorside
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd doorside.png
+
+newmtl city_trailer__networkmap
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd networkmap.png
+
+newmtl city_trailer__networkmap2
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd networkmap2.png
+
+newmtl city_trailer__door_inside
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd door_inside.png
+
+newmtl city_trailer__dt138
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd dt138.png
+
+newmtl city_trailer__screen
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd screen.png
+
+newmtl city_trailer__purple
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd purple.png
+
+newmtl city_trailer__back_in
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd back_in.png
+
+newmtl city_trailer__yellow
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd yellow.png
+
+newmtl city_trailer__lcdbaem
+Ka 0.60000 0.60000 0.60000
+Kd 1.00000 1.00000 1.00000
+Ks 0.43800 0.43800 0.43800
+Ns 100.00000
+map_Kd lcda.png
+
+newmtl city_trailer__chair_1
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd chair_1.png
+
+# Source: emr_class360_mc_local_back.mtl; role: city_back
+# Created by Metasequoia
+

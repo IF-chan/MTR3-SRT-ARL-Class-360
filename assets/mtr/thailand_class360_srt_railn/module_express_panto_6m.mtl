@@ -1,0 +1,207 @@
+# Independent Class360 carriage material library, derived from v12
+newmtl express_motor_high__badak
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd badak_imu.png
+
+newmtl express_motor_high__badak_door
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd badak_imu_door.png
+
+newmtl express_motor_high__black
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd black.png
+
+newmtl express_motor_high__cheonjang
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd cheonjang.png
+
+newmtl express_motor_high__darkgray
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd darkgray.png
+
+newmtl express_motor_high__gray
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd gray.png
+
+newmtl express_motor_high__white
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd white.png
+
+newmtl express_motor_high__chair
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd chair.png
+
+newmtl express_motor_high__lightgray
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd lightgray.png
+
+newmtl express_motor_high__led
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd led.png
+
+newmtl express_motor_high__sub
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd mak.png
+
+newmtl express_motor_high__jibung
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd jibung.png
+
+newmtl express_motor_high__side
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd side_m.png
+
+newmtl express_motor_high__side_1
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd side_m_1.png
+
+newmtl express_motor_high__habu
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd habu.png
+
+newmtl express_motor_high__linemap
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd linemap.png
+
+newmtl express_motor_high__doorside
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd doorside.png
+
+newmtl express_motor_high__wood
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd wood.png
+
+newmtl express_motor_high__networkmap
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd networkmap.png
+
+newmtl express_motor_high__networkmap2
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd networkmap2.png
+
+newmtl express_motor_high__door_inside
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd door_inside.png
+
+newmtl express_motor_high__toilet
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd toilet.png
+
+newmtl express_motor_high__dt138
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd dt138.png
+
+newmtl express_motor_high__item
+Ka 0.60000 0.60000 0.60000
+Kd 1.00000 1.00000 1.00000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd item1.png
+
+newmtl express_motor_high__screen
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd screen.png
+
+newmtl express_motor_high__purple
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd purple.png
+
+newmtl express_motor_high__back_in
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd back_in.png
+
+newmtl express_motor_high__yellow
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd yellow.png
+
+newmtl express_motor_high__lcdbaem
+Ka 0.60000 0.60000 0.60000
+Kd 1.00000 1.00000 1.00000
+Ks 0.43800 0.43800 0.43800
+Ns 100.00000
+map_Kd lcda.png
+
+# Source: emr_class360_mc_back.mtl; role: express_back
+# Created by Metasequoia
+

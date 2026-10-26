@@ -1,0 +1,292 @@
+{
+  "custom_trains": {
+    "srt_class360_city_3car_5m": {
+      "name": "SRT Airport Rail Link Class 360 City Line (3 Cars, 5m Pantograph, Normal height rail)",
+      "color": "222f73",
+      "description": "",
+      "model": "mtr:thailand_class360_srt_railn/module_city_front.obj|1;%1;|mtr:thailand_class360_srt_railn/module_city_panto_5m.obj|2;%1;|mtr:thailand_class360_srt_railn/module_city_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt_railn/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt_railn/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt_railn/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_city_3car_6m": {
+      "name": "SRT Airport Rail Link Class 360 City Line (3 Cars, 6m Pantograph, Normal height rail)",
+      "color": "222f73",
+      "description": "",
+      "model": "mtr:thailand_class360_srt_railn/module_city_front.obj|1;%1;|mtr:thailand_class360_srt_railn/module_city_panto_6m.obj|2;%1;|mtr:thailand_class360_srt_railn/module_city_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt_railn/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt_railn/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt_railn/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_city_4car_5m": {
+      "name": "SRT Airport Rail Link Class 360 City Line (4 Cars, 5m Pantograph, Normal height rail)",
+      "color": "222f73",
+      "description": "",
+      "model": "mtr:thailand_class360_srt_railn/module_city_front.obj|1;%1;|mtr:thailand_class360_srt_railn/module_city_trailer.obj|2;%1;|mtr:thailand_class360_srt_railn/module_city_panto_5m.obj|3;%1;|mtr:thailand_class360_srt_railn/module_city_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt_railn/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt_railn/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt_railn/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_city_4car_6m": {
+      "name": "SRT Airport Rail Link Class 360 City Line (4 Cars, 6m Pantograph, Normal height rail)",
+      "color": "222f73",
+      "description": "",
+      "model": "mtr:thailand_class360_srt_railn/module_city_front.obj|1;%1;|mtr:thailand_class360_srt_railn/module_city_trailer.obj|2;%1;|mtr:thailand_class360_srt_railn/module_city_panto_6m.obj|3;%1;|mtr:thailand_class360_srt_railn/module_city_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt_railn/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt_railn/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt_railn/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_express_3car_5m": {
+      "name": "SRT Airport Rail Link Class 360 Express (3 Cars, 5m Pantograph, Normal height rail)",
+      "color": "95000e",
+      "description": "",
+      "model": "mtr:thailand_class360_srt_railn/module_express_front.obj|1;%1;|mtr:thailand_class360_srt_railn/module_express_panto_5m.obj|2;%1;|mtr:thailand_class360_srt_railn/module_express_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt_railn/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt_railn/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt_railn/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_express_3car_6m": {
+      "name": "SRT Airport Rail Link Class 360 Express (3 Cars, 6m Pantograph, Normal height rail)",
+      "color": "95000e",
+      "description": "",
+      "model": "mtr:thailand_class360_srt_railn/module_express_front.obj|1;%1;|mtr:thailand_class360_srt_railn/module_express_panto_6m.obj|2;%1;|mtr:thailand_class360_srt_railn/module_express_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt_railn/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt_railn/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt_railn/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_express_4car_5m": {
+      "name": "SRT Airport Rail Link Class 360 Express (4 Cars, 5m Pantograph, Normal height rail)",
+      "color": "95000e",
+      "description": "",
+      "model": "mtr:thailand_class360_srt_railn/module_express_front.obj|1;%1;|mtr:thailand_class360_srt_railn/module_express_trailer.obj|2;%1;|mtr:thailand_class360_srt_railn/module_express_panto_5m.obj|3;%1;|mtr:thailand_class360_srt_railn/module_express_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt_railn/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt_railn/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt_railn/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_express_4car_6m": {
+      "name": "SRT Airport Rail Link Class 360 Express (4 Cars, 6m Pantograph, Normal height rail)",
+      "color": "95000e",
+      "description": "",
+      "model": "mtr:thailand_class360_srt_railn/module_express_front.obj|1;%1;|mtr:thailand_class360_srt_railn/module_express_trailer.obj|2;%1;|mtr:thailand_class360_srt_railn/module_express_panto_6m.obj|3;%1;|mtr:thailand_class360_srt_railn/module_express_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt_railn/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt_railn/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt_railn/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_city_3car_5m_rail0": {
+      "name": "SRT Airport Rail Link Class 360 City Line (3 Cars, 5m Pantograph, 0 Height rail)",
+      "color": "222f73",
+      "description": "",
+      "model": "mtr:thailand_class360_srt/module_city_front.obj|1;%1;|mtr:thailand_class360_srt/module_city_panto_5m.obj|2;%1;|mtr:thailand_class360_srt/module_city_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_city_3car_6m_rail0": {
+      "name": "SRT Airport Rail Link Class 360 City Line (3 Cars, 6m Pantograph, 0 Height rail)",
+      "color": "222f73",
+      "description": "",
+      "model": "mtr:thailand_class360_srt/module_city_front.obj|1;%1;|mtr:thailand_class360_srt/module_city_panto_6m.obj|2;%1;|mtr:thailand_class360_srt/module_city_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_city_4car_5m_rail0": {
+      "name": "SRT Airport Rail Link Class 360 City Line (4 Cars, 5m Pantograph, 0 Height rail)",
+      "color": "222f73",
+      "description": "",
+      "model": "mtr:thailand_class360_srt/module_city_front.obj|1;%1;|mtr:thailand_class360_srt/module_city_trailer.obj|2;%1;|mtr:thailand_class360_srt/module_city_panto_5m.obj|3;%1;|mtr:thailand_class360_srt/module_city_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_city_4car_6m_rail0": {
+      "name": "SRT Airport Rail Link Class 360 City Line (4 Cars, 6m Pantograph, 0 Height rail)",
+      "color": "222f73",
+      "description": "",
+      "model": "mtr:thailand_class360_srt/module_city_front.obj|1;%1;|mtr:thailand_class360_srt/module_city_trailer.obj|2;%1;|mtr:thailand_class360_srt/module_city_panto_6m.obj|3;%1;|mtr:thailand_class360_srt/module_city_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_express_3car_5m_rail0": {
+      "name": "SRT Airport Rail Link Class 360 Express (3 Cars, 5m Pantograph, 0 Height rail)",
+      "color": "95000e",
+      "description": "",
+      "model": "mtr:thailand_class360_srt/module_express_front.obj|1;%1;|mtr:thailand_class360_srt/module_express_panto_5m.obj|2;%1;|mtr:thailand_class360_srt/module_express_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_express_3car_6m_rail0": {
+      "name": "SRT Airport Rail Link Class 360 Express (3 Cars, 6m Pantograph, 0 Height rail)",
+      "color": "95000e",
+      "description": "",
+      "model": "mtr:thailand_class360_srt/module_express_front.obj|1;%1;|mtr:thailand_class360_srt/module_express_panto_6m.obj|2;%1;|mtr:thailand_class360_srt/module_express_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_express_4car_5m_rail0": {
+      "name": "SRT Airport Rail Link Class 360 Express (4 Cars, 5m Pantograph, 0 Height rail)",
+      "color": "95000e",
+      "description": "",
+      "model": "mtr:thailand_class360_srt/module_express_front.obj|1;%1;|mtr:thailand_class360_srt/module_express_trailer.obj|2;%1;|mtr:thailand_class360_srt/module_express_panto_5m.obj|3;%1;|mtr:thailand_class360_srt/module_express_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt/class360_led_overlay.js"
+      ]
+    },
+    "srt_class360_express_4car_6m_rail0": {
+      "name": "SRT Airport Rail Link Class 360 Express (4 Cars, 6m Pantograph, 0 Height rail)",
+      "color": "95000e",
+      "description": "",
+      "model": "mtr:thailand_class360_srt/module_express_front.obj|1;%1;|mtr:thailand_class360_srt/module_express_trailer.obj|2;%1;|mtr:thailand_class360_srt/module_express_panto_6m.obj|3;%1;|mtr:thailand_class360_srt/module_express_back.obj|-1;%1;",
+      "model_properties": "mtr:thailand_class360_srt/class360_common_properties.json",
+      "base_train_type": "train_19_2",
+      "texture_id": "mtr:thailand_class360_srt/gray.png",
+      "door_animation_type": "PLUG_FAST",
+      "rider_offset": 0.2,
+      "bve_sound_base_id": "desiro_airport",
+      "door_close_sound_time": 1,
+      "has_gangway_connection": true,
+      "flipV": false,
+      "script_files": [
+        "mtr:thailand_class360_srt/class360_led_overlay.js"
+      ]
+    }
+  }
+}

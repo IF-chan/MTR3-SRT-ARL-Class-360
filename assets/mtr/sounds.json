@@ -1,0 +1,106 @@
+{
+  "desiro_airport_dooropn": {
+    "sounds": [
+      {
+        "name": "mtr:desiro_airport/dooropn",
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "desiro_airport_doorcls": {
+    "sounds": [
+      {
+        "name": "mtr:desiro_airport/doorcls",
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "desiro_airport_motor0": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor0"
+      }
+    ]
+  },
+  "desiro_airport_motor1": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor1"
+      }
+    ]
+  },
+  "desiro_airport_motor10": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor10"
+      }
+    ]
+  },
+  "desiro_airport_motor2": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor2"
+      }
+    ]
+  },
+  "desiro_airport_motor3": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor3"
+      }
+    ]
+  },
+  "desiro_airport_motor4": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor4"
+      }
+    ]
+  },
+  "desiro_airport_motor5": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor5"
+      }
+    ]
+  },
+  "desiro_airport_motor6": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor6"
+      }
+    ]
+  },
+  "desiro_airport_motor7": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor7"
+      }
+    ]
+  },
+  "desiro_airport_motor8": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor8"
+      }
+    ]
+  },
+  "desiro_airport_motor9": {
+    "sounds": [
+      {
+        "attenuation_distance": 32,
+        "name": "mtr:desiro_airport/motor9"
+      }
+    ]
+  }
+}
